@@ -158,13 +158,9 @@ Step 3: User taps "Go Back"
 
 ---
 
-## 👨‍💻 Author
-
-**Student Project** - Flutter Navigation & Routing  
-Supervised by course instructor
 
 ---
 
 <div align="center">
-  <b>🎯 Happy Coding! 🚀</b>
+  <b>🎯 عبدالرحمن شداد  🚀</b>
 </div>
